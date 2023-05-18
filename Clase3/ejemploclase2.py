@@ -27,7 +27,7 @@ def saludo(nombre):
     print("Hola "+nombre)
 
 def solosaludositellamashaydeoconcepcion(nombre):
-    if nombre == "Hayde" :
+    if nombre == "Hayde":
         print("Hola "+nombre)
     elif nombre == "Concepcion":
         print("Hola "+nombre)
