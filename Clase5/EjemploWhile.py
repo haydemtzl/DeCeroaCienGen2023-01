@@ -8,9 +8,9 @@ while numero != 10:
 print(suma)
 print ("La suma es " + str(suma))
 
-# print("¿Cuántos años tienes?")
-# edad = input()
-# print("La mitad de tu edad es  "+ str(int(edad)/2))
+print("¿Cuántos años tienes?")
+edad = input()
+print("La mitad de tu edad es  "+ str(int(edad)/2))
 #
 # def contar(tupla, entero):
 #     #escribo mi codigo

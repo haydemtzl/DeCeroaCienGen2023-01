@@ -1,13 +1,13 @@
-#
-# #Ejercicio1  #[1,2,3]  result:6  i:2  len(array):3
-# def sumaDeLista(array):
-#    result = 0
-#    for i in range(len(array)): #0,3
-#       result += array[i]
-#       array[i] = result
-#    return array
-#
-# a=(SumaDeLista([1,2,3]))
+
+#Ejercicio1  #[1,2,3]  result:6  i:2  len(array):3
+def sumaDeLista(array):
+   result = 0
+   for i in range(len(array)): #0,3
+      result += array[i]
+      array[i] = result
+   return array
+
+a=(SumaDeLista([1,2,3]))
 
 #Ejercicio2
 def elimina(lista):
