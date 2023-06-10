@@ -15,3 +15,6 @@ print("La mitad de tu edad es  "+ str(int(edad)/2))
 # def contar(tupla, entero):
 #     #escribo mi codigo
 #     return cuantasvecesserepiteelentero
+
+e
+

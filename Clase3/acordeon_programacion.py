@@ -11,6 +11,7 @@ nombre2 = "Maria"
 nombre3 = "Enrique"
 numdealumnos = 13
 numdealumnosenfloat = 13.0
+tuplaelementosejemplo = (5, 7, 9)
 alumnosqueentrarontarde = ["Malta", "Pamela", "Daniel"]
 asistenciasclase = {"Primera Clase" : 9, "Segunda Clase" : 8}
 
@@ -41,11 +42,6 @@ def imprimenombresalumnosqllt(listadenombres):
 def imprimenombresalumnosqllt2(listadenombres):
     for i in range(len(listadenombres)):
         print(listadenombres[i] + " llegó tarde")
-
-     # lista = [1,2,3,2,5]
-     # while 2 in lista:
-     #     print("eliminado")
-     #     s.remove(2)
 
 #Llamar a mi función
 saludo(nombre1)
